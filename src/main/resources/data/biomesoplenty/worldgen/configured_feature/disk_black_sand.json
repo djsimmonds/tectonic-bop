@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:disk",
+  "config": {
+    "half_height": 2,
+    "radius": {
+      "type": "minecraft:uniform",
+      "value": {
+        "max_inclusive": 6,
+        "min_inclusive": 2
+      }
+    },
+    "state": {
+	  "Name": "biomesoplenty:black_sand"
+    },
+    "targets": [
+    {
+      "Name": "minecraft:dirt"
+    },
+    {
+      "Name": "minecraft:grass_block"
+    }
+  ]
+}
+}
