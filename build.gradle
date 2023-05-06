@@ -175,8 +175,11 @@ dependencies {
     // Examples using mod jars from ./libs
     // implementation fg.deobf("blank:coolmod-${mc_version}:${coolmod_version}")
     implementation files('lib/tectonic-mod-mc1.18.2-v1.1.7a.jar')
-    implementation(fg.deobf("curse.maven:biomes-o-plenty-220318:3827434"))
-    implementation(fg.deobf("curse.maven:terrablender-563928:3957976"))
+//    implementation(fg.deobf("curse.maven:biomes-o-plenty-220318:3827434"))
+//    implementation(fg.deobf("curse.maven:terrablender-563928:3957976"))
+    implementation files('lib/BiomesOPlenty-1.18.2-16.0.0.134.jar')
+    implementation files('lib/TerraBlender-forge-1.18.2-1.1.0.102.jar')
+    implementation files('lib/Terralith_v2.2.3.jar')
 
     // For more info...
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html

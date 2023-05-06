@@ -1,0 +1,8 @@
+{
+    "type": "cache_once",
+    "argument": {
+        "type": "max",
+        "argument1": "terralith:arch/total",
+        "argument2": "terralith:spikes/tendrils"
+    }
+}

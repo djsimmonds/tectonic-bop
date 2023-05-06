@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+        {
+            "id": "biomesoplenty:boreal_forest",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:fungal_jungle",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:jade_cliffs",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:mystic_grove",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:crystalline_chasm",
+            "required": false
+        }
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"replace": false,
+	"values": [
+        {
+            "id": "biomesoplenty:bamboo_grove",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:cherry_blossom_grove",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:dead_forest",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:fungal_jungle",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:jade_cliffs",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:muskeg",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:mystic_grove",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:old_growth_dead_forest",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:ominous_woods",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:origin_valley",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:tropics",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:volcanic_plains",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:volcano",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:glowing_grotto",
+            "required": false
+        }
+	]
+}
